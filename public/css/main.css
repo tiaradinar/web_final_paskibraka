@@ -1,0 +1,39 @@
+*{
+    padding: 0%;
+
+}
+.navbar{
+    background-image:linear-gradient(to right, #f10434,#ffffff);
+}
+
+.container{
+    
+}
+.row{
+    padding-top: 5%;
+    padding-bottom: 7%;
+    margin: auto;
+}
+#h1{
+    margin-top: 1000px;
+}
+
+.footer{
+    background-image:linear-gradient(to right, #f10434,#ffffff);
+    padding: 2px;
+    text-align: center;
+}
+.p-footer{
+    margin-top:10px ;
+    color: #ffffff;
+}
+.p-footer:hover{
+    color: #ff0000;
+    cursor: pointer;
+}
+.quote{
+    font-weight: 100;
+    font-size: small;
+    color: #767272;
+    text-align: justify;
+}
